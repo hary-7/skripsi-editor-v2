@@ -1,0 +1,27 @@
+{
+  "kata_baku": {
+    "merubah": "mengubah", "praktek": "praktik", "analisa": "analisis", "sintesa": "sintesis",
+    "hipotesa": "hipotesis", "standarisasi": "standardisasi", "efektifitas": "efektivitas",
+    "aktifitas": "aktivitas", "kreatifitas": "kreativitas", "obyek": "objek", "subyek": "subjek",
+    "resiko": "risiko", "hirarki": "hierarki", "kwalitas": "kualitas", "kwitansi": "kuitansi",
+    "jadual": "jadwal", "antri": "antre", "nasehat": "nasihat", "sekedar": "sekadar",
+    "menterjemahkan": "menerjemahkan", "mempengaruhi": "memengaruhi", "mensosialisasikan": "menyosialisasikan",
+    "mentolerir": "menoleransi", "diakomodir": "diakomodasi", "memvalidir": "memvalidasi",
+    "diagnosa": "diagnosis", "metodologi": "metode", "teoritis": "teoretis", "sistematik": "sistematis",
+    "konkrit": "konkret", "subtansi": "substansi", "komperhensif": "komprehensif", "kordinasi": "koordinasi",
+    "azas": "asas", "ijazah": "ijazah", "ijin": "izin", "legitim": "legitimat", "orisinil": "orisinal",
+    "pasca sarjana": "pascasarjana", "sub bab": "subbab", "antar universitas": "antaruniversitas",
+    "perilaku": "perilaku", "respon": "respons", "komplek": "kompleks", "ekstrim": "ekstrem",
+    "deskriptip": "deskriptif", "kualitatip": "kualitatif", "kuantitatip": "kuantitatif",
+    "motip": "motif", "pasip": "pasif", "aktip": "aktif", "efektip": "efektif"
+  },
+  "perbaikan_frasa": {
+    "di mana": "tempat / yang",
+    "yang mana": "yang",
+    "daripada": "dari (untuk perbandingan)",
+    "terdiri dari": "terdiri atas"
+  },
+  "konjungsi_awal_kalimat": [
+    "Oleh karena itu,", "Dengan demikian,", "Namun,", "Akan tetapi,"
+  ]
+}
